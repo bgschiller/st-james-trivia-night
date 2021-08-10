@@ -12,11 +12,11 @@ Register here and drop off a check with Patrick at St James.
   <label for="number-tickets">Number of tickets
     <input type="number" min="1" step="1" name="number-tickets">
   </label>
-  <label for="names">Names
+  <label for="individual-names">Names
     <input type="text" name="individual-names">
   </label>
   <label for="classes">
-    What class(es) are you attached to? <span data-text="We'll try to seat you near people in the same germ pool" class="tooltip">(why?)</span>
+    What class(es) are you attached to? <em>(We'll try to seat you near people in the same germ pool)</em>
     <input type="text" name="classes">
   </label>
   <input type="submit">
@@ -26,7 +26,7 @@ Register here and drop off a check with Patrick at St James.
 
 <form name="table-captain" netlify method="post" action="/success">
   <label for="captain-names">Team Captain Name(s)
-    <input type="text">
+    <input type="text" name="captain-names">
   </label>
   <input type="submit">
 </form>
