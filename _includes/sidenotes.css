@@ -1,0 +1,38 @@
+title-block, aside {
+  display: block;
+  float: left;
+  position: absolute;
+  margin-left: 0;
+  left: 2.5rem;
+  width: calc(2.5rem * 3);
+  text-align: right;
+  list-style-type: none;
+  clear:both; margin-bottom: 1rem;
+  font-variant-numeric: normal;
+}
+
+@media all and (min-width:1200px) {
+  aside {
+      left : 0;
+      width: calc(2.5rem * 4);
+  }
+}
+
+@media all and (max-width:520px) {
+  title-block, aside { float: inherit;
+  position: inherit;
+  width: 100%;
+  text-align: left;}
+
+  aside {
+      background: #fefefe;
+      padding: 0.3rem 0.5rem;
+      width: 90%;
+      border: 1px solid #ccc;
+      border-left: 3px solid #ccc;
+  }
+
+  aside > p:last-child {
+      margin-bottom: 0;
+  }
+}

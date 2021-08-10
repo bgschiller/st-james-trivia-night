@@ -1,0 +1,16 @@
+{
+  "name": "trivia-night",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "clean-css": "^5.1.5",
+    "markdown-it-anchor": "^8.1.2"
+  }
+}
