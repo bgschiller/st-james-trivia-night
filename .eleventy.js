@@ -7,7 +7,7 @@ module.exports = function (eleventyConfig) {
   const markdownLib = markdownIt({ html: true })
     .use(anchor, {
       permalink: anchor.permalink.headerLink(),
-      level: 4
+      level: 3
     });
 
   eleventyConfig.setLibrary('md', markdownLib);
