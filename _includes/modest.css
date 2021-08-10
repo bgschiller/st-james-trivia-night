@@ -71,7 +71,7 @@ pre {
 
 a,
 a:visited {
-  color: #3498db;
+  color: #205d86;
 }
 
 a:hover,
@@ -131,27 +131,27 @@ h1,
 
 h2,
 .modest-h2 {
-  font-size: 2.827rem;
+  font-size: 1.999rem;
 }
 
 h3,
 .modest-h3 {
-  font-size: 1.999rem;
+  font-size: 1.414rem;
 }
 
 h4,
 .modest-h4 {
-  font-size: 1.414rem;
+  font-size: 1.121rem;
 }
 
 h5,
 .modest-h5 {
-  font-size: 1.121rem;
+  font-size: .88rem;
 }
 
 h6,
 .modest-h6 {
-  font-size: .88rem;
+  font-size: 0.78rem;
 }
 
 small,

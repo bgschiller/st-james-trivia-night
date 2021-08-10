@@ -14,19 +14,19 @@ layout: layout.njk
 
 [Register now](/register)
 
-### Learn more about...
+## Learn more about...
 
-#### the food and drinks
+### the food and drinks
 
 Bring food to share with your teammates, potluck style. Alcoholic and non-alcoholic beverages will be available by donation.
 
 We will hold a "dessert dash" midway through the event. You and your tablemates will decide how much money to bid. The largest bid gets first pick of available desserts, enough for the whole table.
 
-#### childcare during the event
+### childcare during the event
 
 There may be a Parents' Night Out coinciding with the event. This is still being worked out.
 
-#### how you can help
+### how you can help
 
 The main way you can help is by signing up as a table captain! Register a table and bring your friends or family to be your trivia team.
 
@@ -36,12 +36,12 @@ We would also appreciate
 - dessert donations, either homemade or purchased
 - other ideas? Contact Brian Schiller, [bgschiller@gmail.com](mailto:bgschiller@gmail.com).
 
-#### COVID precautions
+### COVID precautions
 
 - The event will be held outside under a gazebo, offering plenty of ventilation.
 - There will be no food shared beyond a single table group.
 
-#### the trivia rules
+### the trivia rules
 
 Trivia will consist of 8 rounds. Each round will have 10 questions. Everything will be explained at the event, but if you insist...
 
