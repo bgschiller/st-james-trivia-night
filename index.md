@@ -8,7 +8,7 @@ layout: layout.njk
 
 - Oaks Park picnic area #11
 - Saturday, September 11
-- $30/person
+- $30/person, or register a team of 8 for $240
 - doors open at 5pm, trivia at 5:30
 - registration required
 
@@ -40,6 +40,8 @@ We would also appreciate
 
 - The event will be held outside under a gazebo, offering plenty of ventilation.
 - There will be no food shared beyond a single table group.
+- Even though it is an outdoor event, we request that masks be worn when not at your team's table
+- Refunds available in the event of illness
 
 ### the trivia rules
 
