@@ -9,6 +9,9 @@ Register here and drop off a check with Patrick at St James.
 ## Individual Tickets, $30 each
 
 <form name="individual-tickets" netlify method="post" action="/success">
+  <label for="email">Email
+    <input type="email" name="email">
+  </label>
   <label for="number-tickets">Number of tickets
     <input type="number" min="1" step="1" name="number-tickets">
   </label>
@@ -25,6 +28,9 @@ Register here and drop off a check with Patrick at St James.
 ## A Table for Eight, $240
 
 <form name="table-captain" netlify method="post" action="/success">
+  <label for="email">Email
+    <input type="email" name="email">
+  </label>
   <label for="captain-names">Team Captain Name(s)
     <input type="text" name="captain-names">
   </label>
