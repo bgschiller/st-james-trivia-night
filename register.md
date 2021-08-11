@@ -10,7 +10,7 @@ Register here and drop off a check with Patrick at St James.
 
 <form name="individual-tickets" netlify method="post" action="/success">
   <label for="email">Email
-    <input type="email" name="email">
+    <input type="email" name="email" multiple>
   </label>
   <label for="number-tickets">Number of tickets
     <input type="number" min="1" step="1" name="number-tickets">
@@ -29,7 +29,7 @@ Register here and drop off a check with Patrick at St James.
 
 <form name="table-captain" netlify method="post" action="/success">
   <label for="email">Email
-    <input type="email" name="email">
+    <input type="email" name="email" multiple>
   </label>
   <label for="captain-names">Team Captain Name(s)
     <input type="text" name="captain-names">
