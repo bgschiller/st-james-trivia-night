@@ -6,7 +6,7 @@ layout: layout
 
 Register here and drop off a check with Patrick at St James.
 
-## Individual Tickets, $30/each
+## Individual Tickets, $30 each
 
 <form name="individual-tickets" netlify method="post" action="/success">
   <label for="number-tickets">Number of tickets
